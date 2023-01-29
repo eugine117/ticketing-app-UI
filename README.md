@@ -4,6 +4,8 @@ A new Flutter project.
 
 ## Getting Started
 
+ Project inspired by - [dbstech](https://www.dbestech.com/tutorials/flutter-ticket-booking-app)
+ 
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
